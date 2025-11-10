@@ -1,4 +1,6 @@
-0a108a5 (HEAD -> main, origin/main, origin/HEAD) usd
+54d47d8 (HEAD -> main, origin/main, origin/HEAD) split loop
+e35958e Task 2.3
+0a108a5 usd
 50135b7 Task 2.2
 2bb8821 calculation extraction
 a96878e Task 2.1
