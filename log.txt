@@ -1,3 +1,5 @@
-60bc8a4 (HEAD -> main, origin/main, origin/HEAD) tag Task 1.1
+main, origin/main, origin/HEAD) refactoring
+daae066 Task 1.2 logging
+60bc8a4 tag Task 1.1
 d6ad13b fixed CheckStyle
 b788488 Initial commit
