@@ -1,4 +1,6 @@
-main, origin/main, origin/HEAD) refactoring
+2bb8821 (HEAD -> main, origin/main, origin/HEAD) calculation extraction
+a96878e Task 2.1
+5b3f74f refactoring
 daae066 Task 1.2 logging
 60bc8a4 tag Task 1.1
 d6ad13b fixed CheckStyle
