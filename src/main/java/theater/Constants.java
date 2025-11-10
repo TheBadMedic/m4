@@ -32,6 +32,5 @@ public final class Constants {
     public static final int PERCENT_FACTOR = 100;
 
     private Constants() {
-
     }
 }
